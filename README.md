@@ -19,7 +19,9 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - [Image Rescaling](#Rescaling)
 
 - [Denoising](#Denoising)
-
+  - [Image Denoising](#ImageDenosing)
+  - [Video Denoising](#VideoDenosing)
+  
 - [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
@@ -61,6 +63,24 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
+**Efficient Non-Local Contrastive Attention for Image Super-Resolution**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2744
+
+**Best-Buddy GANs for Highly Detailed Image Super-Resolution**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai137
+- Tags: GAN
+
+**Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai1194
+- Tags: Text SR
+
+**Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-Based Super-Resolution**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai390
+- Tags: Reference-Based SR
+
+**Detail-Preserving Transformer for Light Field Image Super-Resolution **
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai3550
+- Tags: Light Field
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -73,7 +93,17 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="Denoising"></a>
 # Denoising - 去噪
 
+<a name="ImageDenoising"></a>
+## Image Denoising
 
+**Generative Adaptive Convolutions for Real-World Noisy Image Denoising**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4230
+
+<a name="VideoDenoising"></a>
+## Video Denoising
+
+**ReMoNet: Recurrent Multi-Output Network for Efficient Video Denoising**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai6295
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
