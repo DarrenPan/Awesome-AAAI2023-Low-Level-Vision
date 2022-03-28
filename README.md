@@ -20,9 +20,14 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 - [Denoising](#Denoising)
 
+- [Image Enhancement](#Enhancement)
+  - [Low-Light Image Enhancement](#LowLight)
+
 - [Image Harmonization](#Harmonization)
 
 - [Image Completion/Inpainting](#Inpainting)
+
+- [Image Matting](#Matting)
 
 - [Image Compression](#ImageCompression)
 
@@ -35,16 +40,17 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
-**Restormer: Efficient Transformer for High-Resolution Image Restoration**
-- Paper: https://arxiv.org/abs/2111.09881
-- Code: https://github.com/swz30/Restormer
-- Tags: Transformer
-
+**Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4252
+- Code: https://github.com/wyhuai/Panini-Net
 
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
+**Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai7488
+- Code: https://github.com/laulampaul/siamtrans
 
 <a name="VideoRestoration"></a>
 ## Video Restoration
@@ -69,6 +75,15 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 
 
+<a name="Enhancement"></a>
+# Image Enhancement - 图像增强
+
+<a name="LowLight"></a>
+## Low-Light Image Enhancement
+
+**MODNet: Trimap-Free Portrait Matting in Real Time**
+- Paper: https://arxiv.org/abs/2109.05923
+- Code: https://github.com/wyf0912/LLFlow
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
@@ -80,20 +95,45 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 # Image Completion/Inpainting - 图像修复
 
 
+<a name="Matting"></a>
+# Image Matting - 图像抠图
+
+**MODNet: Trimap-Free Portrait Matting in Real Time**
+- Paper: https://arxiv.org/abs/2011.11961
+- Code: https://github.com/ZHKKKe/MODNet
+
+
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
+
+**Towards End-to-End Image Compression and Analysis with Transformers**
+- Paper: https://arxiv.org/abs/2112.09300
+- Code: https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers
+- Tags: Transformer
+
+**OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai8610
+
+**Two-Stage Octave Residual Network for End-to-End Image Compression**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4043
 
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
-
+**Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization**
+- Paper: https://arxiv.org/abs/2103.11784
+- Code: https://github.com/czczup/URST
 
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
 
-
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+
+**SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai934
+- Code: https://github.com/Snowfallingplum/SSAT
+- Tags: Makeup Transfer and Removal
