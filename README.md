@@ -157,14 +157,20 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
-**MODNet: Trimap-Free Portrait Matting in Real Time**
+**Low-Light Image Enhancement with Normalizing Flow**
 - Paper: https://arxiv.org/abs/2109.05923
 - Code: https://github.com/wyf0912/LLFlow
 
+**Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai841
+
+**Semantically Contrastive Learning for Low-Light Image Enhancement**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4218
+- Tags: contrastive learning
+
+
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
-
-
 
 
 <a name="Inpainting"></a>
@@ -201,6 +207,9 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2103.11784
 - Code: https://github.com/czczup/URST
 
+**Deep Translation Prior: Test-Time Training for Photorealistic Style Transfer**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai1958
+
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -213,3 +222,26 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai934
 - Code: https://github.com/Snowfallingplum/SSAT
 - Tags: Makeup Transfer and Removal
+
+**Assessing a Single Image in Reference-Guided Image Synthesis**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai1241
+
+**Interactive Image Generation with Natural-Language Feedback**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai7081
+
+**PetsGAN: Rethinking Priors for Single Image Generation**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2865
+
+**Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4099
+
+**Hierarchical Image Generation via Transformer-Based Sequential Patch Selection**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai557
+
+**Style-Guided and Disentangled Representation for Robust Image-to-Image Translation**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai3727
+
+**OA-FSUI2IT: A Novel Few-Shot Cross Domain Object Detection Framework with Object-Aware Few-shot Unsupervised Image-to-Image Translation**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2213
+- Code: https://github.com/emdata-ailab/FSCD-Det
+- Tags: Image-to-Image Translation used for Object Detection
