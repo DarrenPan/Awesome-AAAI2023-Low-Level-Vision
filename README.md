@@ -41,6 +41,8 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 - [Image Compression](#ImageCompression)
 
+- [Image Quality Assessment](#ImageQualityAssessment)
+
 - [Style Transfer](#StyleTransfer)
 
 - [Image Editing](#ImageEditing)
@@ -77,6 +79,9 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 # Super Resolution - 超分辨率
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
+
+**SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution **
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai528
 
 **Efficient Non-Local Contrastive Attention for Image Super-Resolution**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai2744
@@ -198,6 +203,17 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 **Two-Stage Octave Residual Network for End-to-End Image Compression**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai4043
+
+
+<a name="ImageQualityAssessment"></a>
+# Image Quality Assessment - 图像质量评价
+
+**Content-Variant Reference Image Quality Assessment via Knowledge Distillation**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai1344
+
+**Perceptual Quality Assessment of Omnidirectional Images**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4008
+- Tags: Omnidirectional Images
 
 
 <a name="StyleTransfer"></a>
