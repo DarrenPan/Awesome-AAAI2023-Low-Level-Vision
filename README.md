@@ -42,10 +42,14 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
+**Unsupervised Underwater Image Restoration: From a Homology Perspective**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2078
+- Tags: Underwater Image Restoration
+
 **Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai4252
 - Code: https://github.com/wyhuai/Panini-Net
-
+- Tags: Face Restoration
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -57,6 +61,9 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
+**Transcoded Video Restoration by Temporal Spatial Auxiliary Network**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai12302
+- Tags: Transcoded Video Restoration
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
