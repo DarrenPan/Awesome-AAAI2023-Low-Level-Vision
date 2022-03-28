@@ -21,7 +21,15 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - [Denoising](#Denoising)
   - [Image Denoising](#ImageDenosing)
   - [Video Denoising](#VideoDenosing)
-  
+
+- [Deblurring](#Deblurring)
+  - [Image Deblurring](#ImageDeblurring)
+  - [Video Deblurring](#VideoDeblurring)
+
+- [Deraining](#Deraining)
+
+- [Dehazing](#Dehazing)
+
 - [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
@@ -85,7 +93,7 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai390
 - Tags: Reference-Based SR
 
-**Detail-Preserving Transformer for Light Field Image Super-Resolution **
+**Detail-Preserving Transformer for Light Field Image Super-Resolution**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai3550
 - Tags: Light Field
 
@@ -111,6 +119,37 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 **ReMoNet: Recurrent Multi-Output Network for Efficient Video Denoising**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai6295
+
+
+<a name="Deblurring"></a>
+# Deblurring - 去模糊
+<a name="ImageDeblurring"></a>
+## Image Deblurring
+
+<a name="VideoDeblurring"></a>
+## Video Deblurring
+
+**Deep Recurrent Neural Network with Multi-Scale Bi-Directional Propagation for Video Deblurring**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai3124
+
+
+<a name="Deraining"></a>
+# Deraining - 去雨
+
+**Online-Updated High-Order Collaborative Networks for Single Image Deraining**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai6295
+
+**Close the Loop: A Unified Bottom-up and Top-down Paradigm for Joint Image Deraining and Segmentation**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai678
+- Tags: Joint Image Deraining and Segmentation
+
+
+<a name="Dehazing"></a>
+# Dehazing - 去雾
+
+**Uncertainty-Driven Dehazing Network**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2838
+
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
