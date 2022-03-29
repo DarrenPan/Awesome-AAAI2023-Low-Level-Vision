@@ -30,26 +30,31 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 - [7.Dehazing](#Dehazing)
 
-- [8.Frame Interpolation](#FrameInterpolation)
+- [8.Demosaicing](#Demosaicing)
 
-- [9.Image Enhancement](#Enhancement)
+- [9.Frame Interpolation](#FrameInterpolation)
+
+- [10.Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
-- [10.Image Harmonization](#Harmonization)
+- [11.Image Harmonization](#Harmonization)
 
-- [11.Image Completion/Inpainting](#Inpainting)
+- [12.Image Completion/Inpainting](#Inpainting)
 
-- [12.Image Matting](#Matting)
+- [13.Image Matting](#Matting)
 
-- [13.Image Compression](#ImageCompression)
+- [14.Shadow Removal](#ShadowRemoval)
 
-- [14.Image Quality Assessment](#ImageQualityAssessment)
+- [15.Image Compression](#ImageCompression)
 
-- [15.Style Transfer](#StyleTransfer)
+- [16.Image Quality Assessment](#ImageQualityAssessment)
 
-- [16.Image Editing](#ImageEditing)
+- [17.Style Transfer](#StyleTransfer)
 
-- [17.Image Generation/Synthesis](#ImageGeneration)
+- [18.Image Editing](#ImageEditing)
+
+- [19.Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
+  - [Video Generation](#VideoGeneration)
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
@@ -158,6 +163,12 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai2838
 
 
+<a name="Demosaicing"></a>
+# Demosaicing - 去马赛克
+
+**Deep Spatial Adaptive Network for Real Image Demosaicing**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai2170
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
@@ -194,6 +205,12 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2011.11961
 - Code: https://github.com/ZHKKKe/MODNet
 
+
+<a name="ShadowRemoval"></a>
+# Shadow Removal - 阴影消除
+
+**Efficient Model-Driven Network for Shadow Removal**
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai196
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
@@ -266,3 +283,10 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai2213
 - Code: https://github.com/emdata-ailab/FSCD-Det
 - Tags: Image-to-Image Translation used for Object Detection
+
+<a name="VideoGeneration"></a>
+## Video Generation
+
+**Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through Pseudo-Supervision from Synthetic Optical Flow **
+- Paper: https://aaai-2022.virtualchair.net/poster_aaai4610
+- Code: https://github.com/wangkaihong/Unsup_Recycle_GAN
