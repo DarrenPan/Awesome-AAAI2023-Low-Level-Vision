@@ -20,8 +20,8 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - [3.Image Rescaling](#Rescaling)
 
 - [4.Denoising](#Denoising)
-  - [Image Denoising](#ImageDenosing)
-  - [Video Denoising](#VideoDenosing)
+  - [Image Denoising](#ImageDenoising)
+  - [Video Denoising](#VideoDenoising)
 
 - [5.Deblurring](#Deblurring)
   - [Image Deblurring](#ImageDeblurring)
