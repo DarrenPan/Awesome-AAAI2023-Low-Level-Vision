@@ -94,7 +94,8 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai528
 
 **Efficient Non-Local Contrastive Attention for Image Super-Resolution**
-- Paper: https://aaai-2022.virtualchair.net/poster_aaai2744
+- Paper: https://arxiv.org/abs/2201.03794
+- Code: https://github.com/Zj-BinXia/ENLCA
 
 **Best-Buddy GANs for Highly Detailed Image Super-Resolution**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai137
