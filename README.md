@@ -8,11 +8,12 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 
 
-## 
+## Catalogue
 
 - [1.Image Restoration](#ImageRetoration)
   - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
+
 - [2.Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
@@ -32,28 +33,30 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 - [8.Demosaicing](#Demosaicing)
 
-- [9.Frame Interpolation](#FrameInterpolation)
+- [9.HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
-- [10.Image Enhancement](#Enhancement)
+- [10.Frame Interpolation](#FrameInterpolation)
+
+- [11.Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
-- [11.Image Harmonization](#Harmonization)
+- [12.Image Harmonization](#Harmonization)
 
-- [12.Image Completion/Inpainting](#Inpainting)
+- [13.Image Completion/Inpainting](#Inpainting)
 
-- [13.Image Matting](#Matting)
+- [14.Image Matting](#Matting)
 
-- [14.Shadow Removal](#ShadowRemoval)
+- [15.Shadow Removal](#ShadowRemoval)
 
-- [15.Image Compression](#ImageCompression)
+- [16.Image Compression](#ImageCompression)
 
-- [16.Image Quality Assessment](#ImageQualityAssessment)
+- [17.Image Quality Assessment](#ImageQualityAssessment)
 
-- [17.Style Transfer](#StyleTransfer)
+- [18.Style Transfer](#StyleTransfer)
 
-- [18.Image Editing](#ImageEditing)
+- [19.Image Editing](#ImageEditing)
 
-- [19.Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
+- [20.Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
 
 <a name="ImageRetoration"></a>
@@ -168,6 +171,15 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 **Deep Spatial Adaptive Network for Real Image Demosaicing**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai2170
+
+
+ <a name="HDR"></a>
+# HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
+
+**TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework Using Self-Supervised Multi-Task Learning**
+- Paper: https://arxiv.org/abs/2112.01030
+- Code: https://github.com/miccaiif/TransMEF
+
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
