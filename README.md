@@ -87,7 +87,7 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
-**SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution **
+**SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai528
 
 **Efficient Non-Local Contrastive Attention for Image Super-Resolution**
@@ -287,6 +287,6 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 <a name="VideoGeneration"></a>
 ## Video Generation
 
-**Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through Pseudo-Supervision from Synthetic Optical Flow **
+**Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through Pseudo-Supervision from Synthetic Optical Flow**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai4610
 - Code: https://github.com/wangkaihong/Unsup_Recycle_GAN
