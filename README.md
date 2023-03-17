@@ -108,6 +108,7 @@ A Collection of Papers and Codes in AAAI2022 related to Low-Level Vision
 
 **Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-Based Super-Resolution**
 - Paper: https://aaai-2022.virtualchair.net/poster_aaai390
+- Code: https://github.com/Zj-BinXia/AMSA
 - Tags: Reference-Based SR
 
 **Detail-Preserving Transformer for Light Field Image Super-Resolution**
